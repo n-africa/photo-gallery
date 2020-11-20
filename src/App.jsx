@@ -6,7 +6,7 @@ class App extends Component {
     return (
       <>
         <header>
-          <h1>Welcome to my SPA</h1>
+          <h1>Welcome to the Things I Like</h1>
           <nav>
             <ul>
               <li>
@@ -37,5 +37,4 @@ class App extends Component {
     )
   }
 }
-
 export default App
