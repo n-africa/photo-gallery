@@ -1,9 +1,13 @@
 import React, { Component } from 'react'
 import { Link, Route, Switch } from 'react-router-dom'
 
-class CategoryList extends Component {
+export class CategoryList extends Component {
   render() {
-    return <></>
+    return (
+      <>
+        <h1>This is the Category List!</h1>
+      </>
+    )
   }
 }
 export default CategoryList

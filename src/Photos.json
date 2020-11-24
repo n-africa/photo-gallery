@@ -1,0 +1,53 @@
+{
+    "goldenGirls": {
+        "title": "The Golden Girls",
+        "description": "Four previously married women live together in Miami, sharing their various experiences together and enjoying themselves despite hard times. The Golden Girls is a wonderfully written, extremely funny show that will always be one of the greatest comedy efforts of all time. Each of the four stars received an Emmy Award, making it one of only four sitcoms in the award's history to achieve this.",
+        "photos": [{
+                "title": "Golden Girls Portrait",
+                "imageURL": "https://things-i-like.netlify.com/images/grosser_panda.jpg",
+                "sourceURL": "https://en.wikipedia.org/wiki/Giant_panda"
+            },
+            {
+                "title": "Großer Panda im Ocean Park, Hongkong",
+                "imageURL": "https://things-i-like.netlify.com/images/grosser_panda.jpg",
+                "sourceURL": "https://en.wikipedia.org/wiki/Giant_panda"
+            },
+            {
+                "title": "Wild pandas get a boost; the iconic species has been upgraded from 'endangered' to 'vulnerable.'",
+                "imageURL": "https://things-i-like.netlify.com/images/tree_panda.png",
+                "sourceURL": "https://www.worldwildlife.org/magazine/issues/spring-2017/articles/wild-pandas-get-a-boost--2"
+            },
+            {
+                "title": "Sacred Warrior, by Adrian Smith",
+                "imageURL": "https://things-i-like.netlify.com/images/rising_sun.png",
+                "sourceURL": "https://www.artstation.com/adrian-smith/albums/1298277"
+            }
+        ]
+    },
+
+    "bigBangTheory": {
+        "title": "The Big Bang Theory",
+        "description": "Leonard Hofstadter and Sheldon Cooper are both brilliant physicists working at Cal Tech in Pasadena, California. They are colleagues, best friends, and roommates, although in all capacities their relationship is always tested primarily by Sheldon's regimented, deeply eccentric, and non-conventional ways. In total, it won seven Emmy Awards from 46 nominations.",
+        "photos": [{
+                "title": "Golden Girls Portrait",
+                "imageURL": "https://things-i-like.netlify.com/images/grosser_panda.jpg",
+                "sourceURL": "https://en.wikipedia.org/wiki/Giant_panda"
+            },
+            {
+                "title": "Großer Panda im Ocean Park, Hongkong",
+                "imageURL": "https://things-i-like.netlify.com/images/grosser_panda.jpg",
+                "sourceURL": "https://en.wikipedia.org/wiki/Giant_panda"
+            },
+            {
+                "title": "Wild pandas get a boost; the iconic species has been upgraded from 'endangered' to 'vulnerable.'",
+                "imageURL": "https://things-i-like.netlify.com/images/tree_panda.png",
+                "sourceURL": "https://www.worldwildlife.org/magazine/issues/spring-2017/articles/wild-pandas-get-a-boost--2"
+            },
+            {
+                "title": "Sacred Warrior, by Adrian Smith",
+                "imageURL": "https://things-i-like.netlify.com/images/rising_sun.png",
+                "sourceURL": "https://www.artstation.com/adrian-smith/albums/1298277"
+            }
+        ]
+    }
+}

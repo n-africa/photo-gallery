@@ -1,9 +1,13 @@
 import React, { Component } from 'react'
 import { Link, Route, Switch } from 'react-router-dom'
 
-class PhotoDetail extends Component {
+export class PhotoDetail extends Component {
   render() {
-    return <></>
+    return (
+      <>
+        <h1>This is the PhotoDetail!</h1>
+      </>
+    )
   }
 }
 export default PhotoDetail
